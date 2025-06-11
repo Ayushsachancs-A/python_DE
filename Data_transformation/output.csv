@@ -1,0 +1,6 @@
+order_id,customer,region,amount,status,tax,final_amount,city
+101,Alice,North,250,Completed,45.0,295.0,noida
+102,Bob,East,100,Cancelled,18.0,118.0,Delhi
+103,Charlie,West,300,Completed,54.0,354.0,Ghaziabad
+104,Alice,North,150,Pending,27.0,177.0,noida
+105,Bob,East,200,Completed,36.0,236.0,Delhi
