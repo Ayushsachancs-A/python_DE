@@ -1,0 +1,6 @@
+order_id,customer,region,amount,status
+101,Alice,North,250,Completed
+102,Bob,East,100,Cancelled
+103,Charlie,West,300,Completed
+104,Alice,North,150,Pending
+105,Bob,East,200,Completed
