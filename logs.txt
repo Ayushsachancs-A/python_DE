@@ -1,0 +1,5 @@
+2025-06-11 08:00:00 INFO User logged in
+2025-06-11 08:01:00 ERROR Failed to load dashboard
+2025-06-11 08:01:30 INFO Dashboard load retry
+2025-06-11 08:02:00 ERROR Timeout connecting to database
+2025-06-11 08:03:00 INFO User logged out

@@ -1,0 +1,2 @@
+2025-06-11 08:01:00 ERROR Failed to load dashboard
+2025-06-11 08:02:00 ERROR Timeout connecting to database

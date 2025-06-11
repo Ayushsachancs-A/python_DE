@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "profile": {
+      "location": "Delhi",
+      "joined": "2024-01-01"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "profile": {
+      "location": "Mumbai",
+      "joined": "2023-11-12"
+    }
+  }
+]
