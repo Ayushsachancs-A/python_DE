@@ -39,3 +39,7 @@ print(merged_df)
 
 # Export: Save final result to final_output.csv
 merged_df.to_csv(r"C:\Users\imean\OneDrive\Desktop\projecttss\pythonDE\Data_transformation\output.csv",index=False)
+
+
+# "How do you group data by X and get sum/count/avg?"
+df.groupby("region")["amount"].agg(["sum", "mean", "count"])
